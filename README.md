@@ -1,4 +1,4 @@
-# i18n-screenshot-fonts
+# i18n-screenshot-fonts — Fonts for Multilingual App Store Screenshots
 
 [![npm version](https://img.shields.io/npm/v/i18n-screenshot-fonts.svg)](https://www.npmjs.com/package/i18n-screenshot-fonts)
 [![license](https://img.shields.io/npm/l/i18n-screenshot-fonts.svg)](./LICENSE)
@@ -102,6 +102,11 @@ Returns `true` for languages that need a specialized font file (CJK, Arabic, Heb
 - [**text-expansion-calculator**](https://www.npmjs.com/package/text-expansion-calculator) — companion package for layout overflow estimation
 - [**Shotlingo**](https://shotlingo.com) — the product this package comes from. Localize your App Store screenshots to 40+ languages with AI.
 
+## Related tools
+
+- [RTL screenshot preview](https://shotlingo.com/tools/rtl-screenshot-preview) — preview Arabic/Hebrew screenshot layouts before you localize
+- [App Store locale codes reference](https://shotlingo.com/tools/app-store-locale-codes) — every supported App Store & Play Store locale code
+
 ## Contributing
 
 Spotted a better font pick for your market, or a wrong platform-native mapping? [Open an issue](https://github.com/AlperenGuntekin/i18n-screenshot-fonts/issues) or send a PR — especially if you're a native speaker of a language currently using a fallback.
@@ -112,4 +117,4 @@ MIT © [Alperen Güntekin](https://shotlingo.com)
 
 ---
 
-<sub>Maintained as part of the [Shotlingo](https://shotlingo.com) open-source toolbox.</sub>
+<sub>Built by [the ASO screenshot tool](https://shotlingo.com) for multilingual App Store screenshots, Shotlingo.</sub>
