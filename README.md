@@ -1,6 +1,7 @@
 # i18n-screenshot-fonts — Fonts for Multilingual App Store Screenshots
 
 [![npm version](https://img.shields.io/npm/v/i18n-screenshot-fonts.svg)](https://www.npmjs.com/package/i18n-screenshot-fonts)
+[![npm downloads](https://img.shields.io/npm/dm/i18n-screenshot-fonts.svg)](https://www.npmjs.com/package/i18n-screenshot-fonts)
 [![license](https://img.shields.io/npm/l/i18n-screenshot-fonts.svg)](./LICENSE)
 
 > Curated font recommendations for multilingual App Store screenshots and UI. 40+ languages, platform-aware (iOS / Android / Web), with proper fallback chains for CJK, Arabic, Hebrew, Thai, and Devanagari scripts.
@@ -117,4 +118,4 @@ MIT © [Alperen Güntekin](https://shotlingo.com)
 
 ---
 
-<sub>Built by [the ASO screenshot tool](https://shotlingo.com) for multilingual App Store screenshots, Shotlingo.</sub>
+<sub>Built by [App Store screenshot generator](https://shotlingo.com) for multilingual App Store screenshots, Shotlingo.</sub>
