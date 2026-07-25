@@ -107,6 +107,7 @@ Returns `true` for languages that need a specialized font file (CJK, Arabic, Heb
 
 - [RTL screenshot preview](https://shotlingo.com/tools/rtl-screenshot-preview) — preview Arabic/Hebrew screenshot layouts before you localize
 - [App Store locale codes reference](https://shotlingo.com/tools/app-store-locale-codes) — every supported App Store & Play Store locale code
+- [App Store localization checker](https://shotlingo.com/tools/app-store-localization-checker) — per-language text expansion and script requirements for all 41 App Store languages
 
 ## Contributing
 
