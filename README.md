@@ -119,4 +119,4 @@ MIT © [Alperen Güntekin](https://shotlingo.com)
 
 ---
 
-<sub>Built by [App Store localization checker](https://shotlingo.com) for multilingual App Store screenshots, Shotlingo.</sub>
+<sub>Built by [AI screenshot localizer](https://shotlingo.com) for multilingual App Store screenshots, Shotlingo.</sub>
