@@ -119,4 +119,4 @@ MIT © [Alperen Güntekin](https://shotlingo.com)
 
 ---
 
-<sub>Built by [App Store screenshot sizes reference](https://shotlingo.com) for multilingual App Store screenshots, Shotlingo.</sub>
+<sub>Built by [Shotlingo](https://shotlingo.com), the [App Store localization checker](https://shotlingo.com/tools/app-store-localization-checker) team, for multilingual App Store screenshots.</sub>
